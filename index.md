@@ -7,7 +7,7 @@
  Time Frame: 5 weeks 
  The Goal for this game was to create an alternate way of playing 
  in contrast to the more traditional Setups of console or 
- computer. Puzzlet, was based off  of escape rooms and was 
+ computer. Puzzlet, was based off of escape rooms and was 
  designed with that concept in mind. We started with Unity as a 
  base for the engine, and worked our way up from there. My entire 
  Job was to implement a basic Networking system so that puzzles 
@@ -22,9 +22,9 @@ shit to integrate like a snazzy photo
 Time Frame: 2 weeks 
 As a Final Assignment we had to create a game that implemented
 things we had learned from class such as AI steering, pathfinding, 
-and state machines. We Implemented theses systems with a starting 
+and state machines. We Implemented these systems with a starting 
 code base that needed heavy refactoring and messaging to work and 
-created a prototype for bomberman where the ai is slightly more 
+created a prototype for Bomberman where the AI is slightly more 
 intimidating.
 ```
 ```
@@ -34,8 +34,8 @@ shit to integrate like a snazzy photo
 ```markdown
 Solo Team, Role: 
 Time Frame: 15 weeks 
-The goal for this game was to Start from scracth using Unity to 
-make a 2D game based off of past Ludum Dare proompts such as
+The goal for this game was to Start from scratch using Unity to 
+make a 2D game based off of past Ludum Dare prompts such as
 Minimalistic, You Are the Monster, etc. Where's The Wolf Is an 
 action arcade game where the primary Goal is slaughter. This
 game was a good base to look back on and see how much I have 
