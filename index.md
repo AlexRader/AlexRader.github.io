@@ -13,7 +13,7 @@ This game was a good skill building exercise for me and my unity
 skills. I also gained tons of understanding and appreciation for
 all the other game production roles.
 ```
-<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Untitled.png" alt="Demo Image">
+<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Untitled.png">
 
 ## AI Bomberman - Description
 ```markdown
@@ -28,7 +28,7 @@ intimidating. I was primarily in charge of the editor, level and
 asset loading and underlying gids and graphs as well as steering.
 ```
 
-<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Bomber.png" alt="Demo Image">
+<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Bomber.png">
 
 ## Puzzlet
 ```markdown
@@ -42,7 +42,7 @@ asset loading and underlying gids and graphs as well as steering.
  Job was to implement a basic Networking system so that puzzles 
  could interact with each other.
 ```
-<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Puzzlet.png" alt="Demo Image">
+<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Puzzlet.png">
 
 
 ## Rainbow Bounce
@@ -55,4 +55,4 @@ asset loading and underlying gids and graphs as well as steering.
  my Unity 2D games.
 ```
 
-<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/bounce.png" alt="Demo Image">
+<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/bounce.png">
