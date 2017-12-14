@@ -6,12 +6,12 @@
  4 Person Team, Role: Lead Programmer  
  Time Frame: 5 weeks 
  The Goal for this game was to create an alternate way of playing 
- in contrast to the more traditional Setups of Console or computer. 
- Puzzlet, was based off  of escape rooms and was designed with that 
- concept in mind. We started with Unity as a base for the engine, 
- and worked our way up from there. My entire Job was to implement a
- basic Networking system so that puzzles could interact with each 
- other.
+ in contrast to the more traditional Setups of console or 
+ computer. Puzzlet, was based off  of escape rooms and was 
+ designed with that concept in mind. We started with Unity as a 
+ base for the engine, and worked our way up from there. My entire 
+ Job was to implement a basic Networking system so that puzzles 
+ could interact with each other.
 ```
 ```
 shit to integrate like a snazzy photo
@@ -35,10 +35,12 @@ shit to integrate like a snazzy photo
 Solo Team, Role: 
 Time Frame: 15 weeks 
 The goal for this game was to Start from scracth using Unity to 
-make a 2D game based off of past Ludum Dare proompts: Minimalistic, 
-you are the monster, etc. Where's The Wolf Is an action arcade game 
-where the primary Goal is slaughter. I also gained tons of 
-understanding and appreciation for all the other game production roles.
+make a 2D game based off of past Ludum Dare proompts such as
+Minimalistic, You Are the Monster, etc. Where's The Wolf Is an 
+action arcade game where the primary Goal is slaughter. This
+game was a good base to look back on and see how much I have 
+improved. I also gained tons of understanding and appreciation 
+for all the other game production roles.
 ```
 ```
 shit to integrate like a snazzy photo
