@@ -28,9 +28,7 @@ intimidating. I was primarily in charge of the editor, level and
 asset loading and underlying gids and graphs as well as steering.
 ```
 
-```
-No Photo As Of Yet
-```
+<img src="https://github.com/AlexRader/AlexRader.github.io/blob/master/Assets/Bomber.png" alt="Demo Image">
 
 ## Puzzlet
 ```markdown
